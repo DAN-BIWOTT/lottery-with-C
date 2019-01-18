@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539700098 source:c:\users\prince alchemy\documents\c programs\lottery\main.c
+	<stdio.h>
+	<stdlib.h>
+
